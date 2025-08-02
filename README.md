@@ -1,4 +1,6 @@
 Chess Game with AI Opponent ♟️
+
+
 A fully functional chess game built in Python with Tkinter GUI, featuring strategic AI opponent and complete chess rule implementation.
 
 
